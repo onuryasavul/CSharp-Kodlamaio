@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Matematik
 {
-    internal class DortIslem
+    class DortIslem
     {
         public void Toplama(int sayi1, int sayi2)
         {
